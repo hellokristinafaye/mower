@@ -45,13 +45,14 @@ nav {
 
 main {
     display: flex;
-    /* justify-content: space-between; */
+    justify-content: space-between;
 }
 .article {
     background: white;
     padding: 20px;
     /* display: flex; */
     flex-basis: 75%;
+    margin: 10px 10px 10px 0;
 }
 .article h2, p{
     background: white;
