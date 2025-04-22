@@ -82,3 +82,9 @@ main {
 .sidebar-list {
     font-family: "PT Sans Narrow"
 }
+
+footer p {
+    padding: 30px 10px;
+    margin: 0;
+    font-family: "PT Sans Narrow";
+}
