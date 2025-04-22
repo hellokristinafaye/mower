@@ -68,3 +68,11 @@ main {
     font-family: Fascinate;
     font-style: italic;
 }
+.sidebar {
+    background: rgb(194, 114, 181);
+    padding: 20px;
+}
+.sidebar-title {
+    font-family: Fascinate;
+    font-style: italic;
+}
