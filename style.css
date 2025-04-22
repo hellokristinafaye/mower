@@ -48,3 +48,6 @@ section {
 .article h2, p{
     background: white;
 }
+.article-heading h2{
+    text-align: center;
+}
