@@ -41,9 +41,17 @@ nav {
     color: white;
     padding: 10px 45px;
 }
-section {
+
+
+main {
+    display: flex;
+    /* justify-content: space-between; */
+}
+.article {
     background: white;
     padding: 20px;
+    /* display: flex; */
+    flex-basis: 75%;
 }
 .article h2, p{
     background: white;
