@@ -24,3 +24,12 @@ header {
     font-weight: 100;
     cursor: pointer;
 }
+.search {
+    background: rgb(194, 114, 181);
+}
+.search input {
+    background: white;
+    /* height: 45px; */
+    padding: 10px 5px;
+    margin-left: 5px;
+}
