@@ -17,11 +17,10 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 0 40px;
-
 }
 .nav-links {
     background: transparent;
-
-    /* display: flex;
-    justify-content: space-between; */
+    font-family: "PT Sans Narrow";
+    font-weight: 100;
+    cursor: pointer;
 }
