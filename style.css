@@ -33,4 +33,11 @@ nav {
     padding: 10px 5px;
     margin-left: 5px;
     width: 300px;
+    font-family: "PT Sans Narrow";
+}
+.search button {
+    font-family: "PT Sans Narrow";
+    background: rgb(60, 59, 59);
+    color: white;
+    padding: 10px 45px;
 }
